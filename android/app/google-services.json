@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810526509259",
+    "project_id": "imagefirbase-cd35b",
+    "storage_bucket": "imagefirbase-cd35b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810526509259:android:2b972d2a6a77dfbb3bb34e",
+        "android_client_info": {
+          "package_name": "com.example.image_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810526509259-rfkvluaechur9lmtm3fjup6ai4aiur7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0mIU0aKGbWfcjlfuxz8g6ciXXBVvdpM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810526509259-rfkvluaechur9lmtm3fjup6ai4aiur7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
